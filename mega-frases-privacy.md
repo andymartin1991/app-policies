@@ -1,14 +1,14 @@
-# Política de Privacidad — Mega Frases
+# Política de Privacidad — Mega Insultator
 
 **Última actualización:** 10 de mayo de 2026
 
 ## 1. Introducción
 
-Mega Frases es una aplicación móvil para Android que genera frases positivas y motivadoras personalizadas con el nombre del usuario, y las reproduce en voz alta mediante el sintetizador de voz del dispositivo. Esta política de privacidad describe cómo se trata la información cuando usas la aplicación.
+Mega Insultator es una aplicación móvil para Android de humor que genera insultos y frases graciosas personalizadas con el nombre introducido por el usuario, y las reproduce en voz alta mediante el sintetizador de voz del dispositivo. Esta política de privacidad describe cómo se trata la información cuando usas la aplicación.
 
 ## 2. Datos que recopilamos
 
-**Mega Frases no recopila, almacena ni transmite ningún dato personal.**
+**Mega Insultator no recopila, almacena ni transmite ningún dato personal.**
 
 - El nombre que introduces en la aplicación se utiliza únicamente en el momento de generar la frase y **no se guarda** en el dispositivo ni se envía a ningún servidor.
 - La aplicación no requiere conexión a Internet.
@@ -23,9 +23,9 @@ La aplicación usa el sintetizador de texto a voz (TTS) del sistema Android, que
 
 La aplicación no guarda ningún archivo ni dato en el dispositivo más allá del estado normal del sistema (por ejemplo, el stack de actividades de Android).
 
-## 5. Menores de edad
+## 5. Contenido y audiencia
 
-Mega Frases no está dirigida a niños menores de 13 años. No recopilamos conscientemente información de menores. Si eres padre o tutor y crees que un menor ha proporcionado información personal, ten la seguridad de que la aplicación no conserva ningún dato.
+Mega Insultator es una aplicación de humor destinada a usuarios mayores de 13 años. El contenido generado tiene carácter cómico y satírico. No recopilamos conscientemente información de menores de 13 años. Si eres padre o tutor y crees que un menor ha proporcionado información personal, ten la seguridad de que la aplicación no conserva ningún dato.
 
 ## 6. Cambios en esta política
 
