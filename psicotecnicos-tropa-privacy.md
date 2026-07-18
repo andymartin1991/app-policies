@@ -1,8 +1,8 @@
-# Política de Privacidad — Psicotecnicos tropa
+# Política de Privacidad — Psicotécnicos Tropa
 
-**Última actualización:** 31/01/2026
+**Última actualización:** 18/07/2026
 
-Esta Política de Privacidad describe cómo se gestionan los datos cuando utilizas la aplicación móvil **Psicotecnicos tropa** (en adelante, la “App”).
+Esta Política de Privacidad describe cómo se gestionan los datos cuando utilizas la aplicación móvil **Psicotécnicos Tropa** (en adelante, la “App”).
 
 ## 1. Responsable
 
@@ -13,14 +13,12 @@ Esta Política de Privacidad describe cómo se gestionan los datos cuando utiliz
 
 La App está diseñada para funcionar sin necesidad de cuenta. Aun así, para que algunas funciones técnicas funcionen correctamente, pueden tratarse los siguientes datos:
 
-### 2.1 Identificador anónimo del dispositivo (ID interno)
-- **Qué es:** un identificador anónimo generado/guardado por la App para reconocer la instalación.
+### 2.1 Identificador anónimo de la instalación (ID interno)
+- **Qué es:** un identificador aleatorio generado por la App para reconocer la instalación. No procede de identificadores de hardware, publicidad u otros datos personales.
 - **Para qué se usa:**
   - Identificar al usuario de forma anónima en el sistema de suscripciones (RevenueCat).
   - Mantener coherencia del estado de la suscripción/restauración de compras.
-- **Dónde se guarda:** se almacena localmente en el dispositivo (SharedPreferences).
-
-> Nota técnica: en Android se utiliza información del dispositivo a través de `device_info_plus` para generar un ID; en iOS se utiliza `identifierForVendor` cuando está disponible.
+- **Dónde se guarda y trata:** se almacena localmente en el dispositivo (SharedPreferences) y se transmite cifrado a RevenueCat como `appUserID`.
 
 ### 2.2 Datos de uso y progreso (almacenamiento local)
 - **Qué se guarda:** progreso de entrenamiento (bloque/posición) y resultados de simulacros.
@@ -45,12 +43,6 @@ La App usa los siguientes servicios/SDKs de terceros:
 ### 3.2 Google Play / Google Play Billing
 - **Finalidad:** procesamiento de compras y suscripciones.
 - **Más información:** https://policies.google.com/privacy
-
-### 3.3 Supabase (no activo actualmente)
-En el proyecto existe una dependencia de Supabase (`supabase_flutter`) para un sistema de “usos limitados”.
-
-- **Estado actual:** **no se utiliza en producción** (configuración deshabilitada en la App).
-- Si en el futuro se activase, esta política se actualizaría para reflejarlo.
 
 ## 4. Publicidad y analítica
 
